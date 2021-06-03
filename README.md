@@ -11,3 +11,6 @@ The results is reported as the accuracy of each classifier, using the following 
 1.Jaccard Index
 2.F1-Score
 3.Log Loss
+
+# Note
+During the peer evaluation process one my fellow course attendee suggested to choose k value in case of KNN algorithm as 8 but i didnt get the time to check it.If you find that value as more suitable please create an issue suggesting the same.CHEERS:)
